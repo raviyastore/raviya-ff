@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "RAVIYA ACCOUNT STORE - Payment Manager",
+  "short_name": "RAVIYA PAY",
+  "description": "RAVIYA ACCOUNT STORE customer payment and due-date manager.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080d18",
+  "theme_color": "#080d18",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
